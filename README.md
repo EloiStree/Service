@@ -5,7 +5,7 @@ I am not the best developer in quality or productivity but I have two main quali
 - I am creative and love to find solution  
 - I am not doing this job because I want to live of it but becase I love coding all day long.  
 
-A third quality I have is the patience to teach what ever the level of learner.
+A third quality I have is the patience to teach what ever the level of learner.  
 I am French in mother tought, but can work and teach in English.
 
 
