@@ -1,7 +1,7 @@
 # Service
 
 I am a self-taught freelance developer with a focus on Unity3D and virtual reality since the Oculus DK1.  
-I am not the best developer in quality or productivity but I have two main quality:   
+I am not the best developer in quality or productivity but I have two main qualities:   
 - I am creative and love to find solution  
 - I am not doing this job because I want to live of it but becase I love coding all day long.  
 
