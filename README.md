@@ -20,7 +20,8 @@ Since I started to code, I never stopped.
 I have 80% of my time worked for me on hundreds of small experiments.  
 And from time to time, I worked and teached for clients.  
 
-The reason is simple, I am not working to live, I work to allow me to code more.  
+The reason is simple: I am not working to live, I work to allow me to code more.    
+I code because I am curious by nature and love to learn if something is possible... So I code it.  
 
 You can find a list of the project on my harddrive here: 
 https://github.com/EloiStree/ProjectsID    
