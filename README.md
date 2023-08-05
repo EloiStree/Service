@@ -33,7 +33,8 @@ May the code be with you,
 Kind regards, 
 Eloi  
 
-[https://www.linkedin.com/in/eloistree/](https://www.linkedin.com/in/eloistree/)
+[https://www.linkedin.com/in/eloistree/](https://www.linkedin.com/in/eloistree/)  
+[https://eloistree.github.io/r/discord/](https://eloistree.github.io/r/discord/)  
 
 
 
