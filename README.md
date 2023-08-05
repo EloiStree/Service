@@ -13,7 +13,7 @@ You can find the projects I did in the past as experiments or small projects for
 https://github.com/EloiStree/Service/tree/main/Archive/Projects
 
 I have been teaching for two years going from 1 day to 5 months straight.   
-Tou can find some archived of the workshop here:    
+You can find some archived of the workshop here:    
 https://github.com/EloiStree/Service/tree/main/Archive/Teaching  
 
 Since I started to code, I never stopped.  
