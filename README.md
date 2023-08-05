@@ -9,7 +9,7 @@ A third quality I have is the patience to teach what ever the level of learner.
 I am French in mother tought, but can work and teach in English.
 
 
-You can find the project I did in the past as experiments or small projects for clients:
+You can find the projects I did in the past as experiments or small projects for clients:
 https://github.com/EloiStree/Service/tree/main/Archive/Projects
 
 I have been teaching for two years going from 1 day to 5 months straight.   
