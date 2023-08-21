@@ -1,3 +1,12 @@
+![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)    
+This section is new and under construction.  
+What to work with me on something I did or something you think we can work on ?  
+Just ping me on Linked In, I don't bite.  
+https://www.linkedin.com/in/eloistree/  
+
+---------------------
+
+
 # Service
 
 I am a self-taught freelance developer with a focus on Unity3D and virtual reality since the Oculus DK1.  
